@@ -1,3 +1,5 @@
+#Selection01
+#Jonny Binstead
 no1 = int(input("Pick a number. "))
 no2 = int(input("Pick a different number. "))
 if no1 > no2:
