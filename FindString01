@@ -1,3 +1,5 @@
+#FindString01
+#Jonny Binstead
 name = str(input("What is your name? "))
 part = (name[2:3])
 thing = name.find(part)
