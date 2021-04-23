@@ -1,3 +1,5 @@
+#IsDigit01
+#Jonny Binstead
 number = str(input("Phone Number: "))
 check = number.isdigit()
 if check == True:
