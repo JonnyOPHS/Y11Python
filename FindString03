@@ -1,3 +1,5 @@
+#FindString03
+#Jonny Binstead
 email = ("TheQueen@BuckinghamPalace.com")
 at = "@"
 location = email.find(at)
