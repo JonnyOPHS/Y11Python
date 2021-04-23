@@ -1,3 +1,5 @@
+#RandomModule09
+#Jonny Binstead
 import random
 colour = ["red","green","blue","purple"]
 correct = false
