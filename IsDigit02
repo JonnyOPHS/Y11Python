@@ -1,3 +1,5 @@
+#IsDigit02
+#Jonny Binstead
 count = 0    
 loop = True
 while loop == True:
