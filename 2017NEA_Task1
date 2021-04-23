@@ -1,3 +1,5 @@
+#2017NEA_Task1
+#Jonny Binstead
 answer = ("N")
 while answer == "N":
     fname = str(input("First name: ")).title()
