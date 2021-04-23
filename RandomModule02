@@ -1,3 +1,5 @@
+#RandomModule02
+#Jonny Binstead
 import random
 colour = ["Red","Blue","Green","Yellow","Orange"]
 choice = random.choice(colour)
