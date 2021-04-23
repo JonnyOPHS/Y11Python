@@ -1,3 +1,5 @@
+#FindString05
+#Jonny Binstead
 number = ("07937829472")
 zero = ("0")
 ukphone = number.find(zero)
