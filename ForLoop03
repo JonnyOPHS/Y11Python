@@ -1,3 +1,5 @@
+#ForLoop03
+#Jonny Binstead
 name = str(input("What is your name? ")).title()
 number = int(input("Enter a number! "))
 for i in range (number):
