@@ -1,3 +1,5 @@
+#FindString06
+#Jonny Binstead
 uknumber = ("07654322968")
 answer = str(input("Do you want to check the number? Y/N: ")).upper()
 if answer == "Y":
