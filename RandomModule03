@@ -1,3 +1,5 @@
+#RandomModule03
+#Jonny Binstead
 import random
 coin = ["Heads","Tails"]
 guess = str(input("Heads or Tails? ")).title()
