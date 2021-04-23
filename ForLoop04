@@ -1,3 +1,5 @@
+#ForLoop04
+#Jonny Binstead
 name = str(input("What is your name? ")).title()
 for Singleletter in (name):
     print(Singleletter)
