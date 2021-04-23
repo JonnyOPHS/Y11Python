@@ -1,3 +1,5 @@
+#FindString02
+#Jonny Binstead
 url = ("google.com")
 dot = "."
 location = url.find(dot)
