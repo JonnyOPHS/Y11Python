@@ -1,3 +1,5 @@
+#Selection05
+#Jonny Binstead
 rain = str(input("Is it raining today? ")).lower()
 if rain == "yes":
     wind = str(input("Is it windy? ")).lower()
