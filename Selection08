@@ -1,3 +1,5 @@
+#Selection08
+#Jonny Binstead
 number = int(input("Pick 1, 2 or 3. "))
 if number == 1:
     print("Thank you!")
