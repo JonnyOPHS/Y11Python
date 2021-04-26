@@ -1,3 +1,5 @@
+#Selection07
+#Jonny Binstead
 number = int(input("Pick a random number. "))
 if number < 10:
     print("Too Low!")
