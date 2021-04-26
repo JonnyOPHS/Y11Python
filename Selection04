@@ -1,3 +1,5 @@
+#Selection04
+#Jonny Binstead
 colour = str(input("Choose any colour. ")).lower()
 if colour == "red":
     print("I like red too!")
