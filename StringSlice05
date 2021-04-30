@@ -1,2 +1,4 @@
+#StringSlice05
+#Jonny Binstead
 name = str(input("What is your name? ")).upper()
 print(name)
