@@ -1,3 +1,5 @@
+#WhileLoop06
+#Jonny Binstead
 number = 0
 while number < 10 or number > 20:
     number = int(input("Pick a number between 10 and 20! "))
