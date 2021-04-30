@@ -1,3 +1,5 @@
+#WhileLoop03
+#Jonny Binstead
 total = 0
 answer = "y"
 while answer == "y":
