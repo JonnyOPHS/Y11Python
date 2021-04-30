@@ -1,3 +1,5 @@
+#StringSlice08
+#Jonny Binstead
 count = 1
 while count < 10:
     name = str(input("What is your name? ")).title()
