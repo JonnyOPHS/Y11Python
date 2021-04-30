@@ -1,3 +1,5 @@
+#StringSlice02
+#Jonny Binstead
 fname = str(input("What is your first name? ")).title()
 lname = str(input("What is your last name? ")).title()
 space = (" ")
