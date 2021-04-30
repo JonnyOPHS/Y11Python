@@ -1,3 +1,5 @@
+#WhileLoop01
+#Jonny Binstead
 total = int(input("Pick a random number! "))
 print("The total number is now", total)
 while total < 50:
