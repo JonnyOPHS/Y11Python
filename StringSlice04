@@ -1,3 +1,5 @@
+#StringSlice04
+#Jonny Binstead
 rhyme = str(input("Pick the first line of a nursery rhyme! "))
 length = len(rhyme)
 number1 = int(input("Pick a number! "))
