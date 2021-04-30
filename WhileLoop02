@@ -1,3 +1,5 @@
+#WhileLoop02
+#Jonny Binstead
 number = 0
 while number < 6:
     number = int(input("Pick a number! "))
